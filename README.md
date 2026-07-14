@@ -1,5 +1,6 @@
 # git-learn
 
+'''
 git
     -> status                     - tells you information to your current copy of repo
     -> add <file>                 - it adds files on the staging area
@@ -8,3 +9,4 @@ git
     -> merge <branch_name>        - merges it with the master branch
     -> checkout -b <feature name> - makes a branch and switches to the branch
     -> resolve
+'''
